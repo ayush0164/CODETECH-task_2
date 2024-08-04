@@ -4,7 +4,7 @@
 
 **ID:** CT08DS4627 
 
-**Domain:** Pythn Programing
+**Domain:** Python Programing
 
 **Duration:** July to August 2024 
 
