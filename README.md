@@ -12,7 +12,7 @@
 
 
 ## Overview of the project
-### Project: Student Grade tracker 
+### Project: Student Grade Tracker 
 
 ### Objective
 Python program that acts as a basic calculator. It should prompt the user to
